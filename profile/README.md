@@ -23,7 +23,6 @@ family-finance/
 ├── backend/              # NestJS monolithic API server
 ├── api-gateway/          # Nginx reverse proxy
 ├── postgres-db/          # PostgreSQL database
-├── backend-compose/      # Docker orchestration for backend services
 └── global-compose/       # Global Docker orchestration
 ```
 
